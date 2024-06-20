@@ -2,4 +2,4 @@
  
 Source code for Rocket Course.
 
-Check out the game on: dxphong22.itch.io/rocket-ride
+Check out the game on: https://dxphong22.itch.io/rocket-ride
